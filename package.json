@@ -12,7 +12,7 @@
     "postinstall": "ng build --prod"
   },
   "engines": {
-    "node": "17.2.0",
+    "node": "16.0.0",
       "npm": "8.5.5"
   },
   "private": true,
