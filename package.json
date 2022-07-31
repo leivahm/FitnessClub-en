@@ -14,7 +14,8 @@
   "engines": {
     "node": "16.0.0",
       "npm": "8.5.5"
-  },
+  }, //modificamos la ultima versión de node a 16.0.0
+     //funcionó en VERCEL pero no en HEROKU
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
